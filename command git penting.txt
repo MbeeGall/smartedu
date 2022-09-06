@@ -1,0 +1,5 @@
+alias graph="git log --all --decorate --oneline --graph"
+
+git remote add origin https://github.com/MbeeGall/smartedu.git
+git branch -M main
+git push -u origin main
