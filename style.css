@@ -310,7 +310,7 @@ a img.aligncenter {
   left: 0;
   width: 100%;
   height: 50%;
-  background: #eea412;
+  background: #4c5a7d;
   z-index: -1;
   transition: top 1.2s linear 3.1s;
 }
@@ -321,7 +321,7 @@ a img.aligncenter {
   left: 0;
   width: 100%;
   height: 50%;
-  background: #eea412;
+  background: #4c5a7d;
   z-index: -1;
   transition: bottom 1.2s linear 3.1s;
 }
@@ -562,7 +562,7 @@ a img.aligncenter {
 	left: 40%;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
-	color: #eea412;
+	color: #ee1212;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link::after{
 	opacity: 1;
@@ -578,7 +578,7 @@ a img.aligncenter {
 	left: 40%;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover{
-	color: #eea412;
+	color: #ee1212;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover::after{
 	opacity: 1;
@@ -642,7 +642,7 @@ a img.aligncenter {
 
 .navbar-right li a.hover-btn-new::before,
 .navbar-right li a.hover-btn-new::after {
-  background: #eea412;
+  background: #EE1212;
   content: '';
   position: absolute;
   z-index: 1;
@@ -710,7 +710,7 @@ a img.aligncenter {
 
 .box-slider .carousel-control-prev{
 	border-radius: 2px;
-	background: #eea412;
+	background: #ee1212;
 	position: absolute;
 	left: 0px;
 	font-size: 38px;
@@ -722,7 +722,7 @@ a img.aligncenter {
 }
 .box-slider .carousel-control-next{
 	border-radius: 2px;
-	background: #eea412;
+	background: #ee1212;
 	position: absolute;
 	right: 0px;
 	font-size: 38px;
@@ -899,8 +899,8 @@ a img.aligncenter {
 	border-radius: 2px;
 }
 
-.orange{
-	border-color: #eea412;
+.white{
+	border-color: #fff;
 }
 
 .first-section {
@@ -933,7 +933,7 @@ a img.aligncenter {
 }
 
 .first-section h2 strong{
-	color: #eea412;
+	color: #ee1212;
 }
 
 .first-section .lead {
@@ -2776,7 +2776,7 @@ select.mobile-device {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #eea412;
+    background: #ee1212;
     z-index: 11000;
     position: fixed;
     display: block
@@ -3140,7 +3140,7 @@ span.m_1 {
 
 .customer-box .nav-tabs > li > a.active{
 	border: none;
-	background: #eea412;
+	background: #ee1212;
 	color: #fff;
 	border-radius: 0px;
 }
@@ -3156,7 +3156,7 @@ span.m_1 {
 }
 
 .customer-box .nav-tabs > li > a:hover{
-	background: #eea412;
+	background: #ee1212;
 	color: #ffffff;
 	border: 0px;
 }
