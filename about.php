@@ -158,12 +158,12 @@
 								<a class="dropdown-item" href="blog-single.html">Blog single </a>
 							</div>
 						</li>
-						<li class="nav-item"><a class="nav-link" href="teachers.html">Teachers</a></li>
-						<li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>
+						<li class="nav-item"><a class="nav-link" href="teachers.php">Teachers</a></li>
+						<li class="nav-item"><a class="nav-link" href="pricing.php">Pricing</a></li>
 						<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
-                        <li><a class="hover-btn-new log" href="#" data-toggle="modal" data-target="#login"><span>Book Now</span></a></li>
+                        <li><a class="hover-btn-new log orange" href="#" data-toggle="modal" data-target="#login"><span>Login</span></a></li>
                     </ul>
 				</div>
 			</div>
@@ -230,19 +230,10 @@
 	<div class="hmv-box">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-4 col-md-6 col-12">
-					<div class="inner-hmv">
-						<div class="icon-box-hmv"><i class="flaticon-achievement"></i></div>
-						<h3>Mission</h3>
-						<div class="tr-pa">M</div>
-						<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam eligendi expedita, provident cupiditate in excepturi.</p>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
+            <div class="col-lg-4 col-md-6 col-12">
 					<div class="inner-hmv">
 						<div class="icon-box-hmv"><i class="flaticon-eye"></i></div>
-						<h3>Vision</h3>
+						<h3>Visi</h3>
 						<div class="tr-pa">V</div>
 						<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam eligendi expedita, provident cupiditate in excepturi.</p>
@@ -250,8 +241,17 @@
 				</div>
 				<div class="col-lg-4 col-md-6 col-12">
 					<div class="inner-hmv">
+						<div class="icon-box-hmv"><i class="flaticon-achievement"></i></div>
+						<h3>Misi</h3>
+						<div class="tr-pa">M</div>
+						<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam eligendi expedita, provident cupiditate in excepturi.</p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-12">
+					<div class="inner-hmv">
 						<div class="icon-box-hmv"><i class="flaticon-history"></i></div>
-						<h3>History</h3>
+						<h3>Sejarah</h3>
 						<div class="tr-pa">H</div>
 						<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam eligendi expedita, provident cupiditate in excepturi.</p>
@@ -348,31 +348,6 @@
                         </div><!-- end testimonial -->
                     </div><!-- end carousel -->
                 </div><!-- end col -->
-            </div><!-- end row -->
-        </div><!-- end container -->
-    </div><!-- end section -->
-
-    <div class="parallax section dbcolor">
-        <div class="container">
-            <div class="row logos">
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_01.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_02.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_03.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_04.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_05.png" alt="" class="img-repsonsive"></a>
-                </div>
-                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="images/logo_06.png" alt="" class="img-repsonsive"></a>
-                </div>
             </div><!-- end row -->
         </div><!-- end container -->
     </div><!-- end section -->
